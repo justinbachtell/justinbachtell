@@ -1,6 +1,6 @@
 # Hello there! I'm Justin Bachtell
 
-I'm a Full Stack Developer based in southeastern Wisconsin, specializing in JavaScript, TypeScript, React.js, Next.js, Node.js, Git, PHP, WordPress, Tailwind, CSS, Sass, AWS, PostgreSQL, MySQL, and Figma. I also have a Bachelor of Science in Information Technology and approximately 1.5 years of professional experience in the software development field.
+I'm a Full Stack Developer based in southeastern Wisconsin, specializing in JavaScript, TypeScript, React.js, Next.js, Node.js, Git, PHP, WordPress, Tailwind, CSS, Sass, AWS, PostgreSQL, MySQL, and Figma. I also have a Bachelor of Science in Information Technology and approximately 1.5 years of professional experience in the software development field, and several years of experience in law enforcement.
 
 ## 🔭 What I've worked on
 
