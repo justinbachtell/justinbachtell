@@ -1,4 +1,4 @@
-# Hello there! I'm Justin Bachtell 👋
+# Hello there! I'm Justin Bachtell
 
 I'm a Full Stack Developer based in southeastern Wisconsin, specializing in JavaScript, TypeScript, React.js, Next.js, Node.js, Git, PHP, WordPress, Tailwind, CSS, Sass, AWS, PostgreSQL, MySQL, and Figma. I also have a Bachelor of Science in Information Technology and approximately 1.5 years of professional experience in the software development field.
 
@@ -13,7 +13,8 @@ I'm currently learning Rust, React Native, and cybersecurity. I'm also intereste
 ## 🎓 Certifications
 
 - AWS Certified Practitioner
-- Internationally Certified Drug Recognition Expert (DRE)
+- Internationally Certified Drug Recognition Expert
+- Certified Law Enforcement Officer
 
 ## 🌐 Work Environment
 
@@ -27,7 +28,7 @@ I also enjoy developing low- or no-code solutions such as custom themes and plug
 
 ## 📫 How to Reach Me
 
-You can contact me via [Website](https://justinbachtell.com), or [LinkedIn](https://www.linkedin.com/in/justinbachtell/).
+You can contact me via [my personal site](https://justinbachtell.com) or [LinkedIn](https://www.linkedin.com/in/justinbachtell/).
 
 ## ⚡ Fun Fact
 
