@@ -8,7 +8,7 @@ One of my proudest accomplishments is leading the development of a new React-bas
 
 ## 🌱 What I'm learning
 
-I'm currently learning Rust, React Native, and cybersecurity. I'm also interested in exploring .NET, C#, and intelligence analysis.
+I'm currently learning Rust, Python, React Native, and cybersecurity. I'm also interested in exploring .NET, C#, and intelligence analysis.
 
 ## 🎓 Certifications
 
